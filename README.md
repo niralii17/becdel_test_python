@@ -4,6 +4,9 @@
 
 # Bechdel and Mako Mori Test Analysis
 
+### [medium - article] (https://medium.com/@niraliparikh17/redefining-roles-the-bechdel-test-and-mako-mori-test-in-bollywoods-female-characters-f36220d20b61)
+
+
 ## Project Overview
 
 This project involves analyzing Bollywood movies using the Bechdel Test and the Mako Mori Test to assess the representation of female characters. The analysis is conducted using a dataset that includes movie names, ratings, and test results. The report provides insights into the percentage of movies passing each test, identifies top and bottom-rated movies, and examines trends based on the year of release
