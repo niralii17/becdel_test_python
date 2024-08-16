@@ -1,22 +1,18 @@
 
-# Project Title
-
-
 # Bechdel and Mako Mori Test Analysis
 
-### [medium - article] (https://medium.com/@niraliparikh17/redefining-roles-the-bechdel-test-and-mako-mori-test-in-bollywoods-female-characters-f36220d20b61)
-
+### [Medium - Article](https://medium.com/@niraliparikh17/redefining-roles-the-bechdel-test-and-mako-mori-test-in-bollywoods-female-characters-f36220d20b61)
 
 ## Project Overview
 
-This project involves analyzing Bollywood movies using the Bechdel Test and the Mako Mori Test to assess the representation of female characters. The analysis is conducted using a dataset that includes movie names, ratings, and test results. The report provides insights into the percentage of movies passing each test, identifies top and bottom-rated movies, and examines trends based on the year of release
+This project involves analyzing Bollywood movies using the Bechdel Test and the Mako Mori Test to assess the representation of female characters. The analysis is conducted using a dataset that includes web-scraped movie names and ratings The report provides insights into the percentage of movies passing each test, identifies top and bottom-rated movies, and examines trends based on the year of release.
 
 ## Dataset
-- Movie_Name: Name of the movie
-- Rating: Rating of the movie
-- Bechdel_test: Result of the Bechdel Test
-- The_Mako_Mori_Test: Result of the Mako Mori Test
-- year: Release year of the movie
+- **Movie_Name:** Name of the movie (web-scraped)
+- **Rating:** Rating of the movie (web-scraped)
+- **Bechdel_test:** Result of the Bechdel Test
+- **The_Mako_Mori_Test:** Result of the Mako Mori Test
+- **year:** Release year of the movie
 
 ## Key Insights
 
@@ -40,7 +36,6 @@ This project involves analyzing Bollywood movies using the Bechdel Test and the 
 
 3. **Yearly Analysis:**
    - Users can input a specific year to filter the dataset and analyze the percentage of movies passing each test for that year.
-
 
 ### Code Walkthrough
 
@@ -88,6 +83,8 @@ This project involves analyzing Bollywood movies using the Bechdel Test and the 
 ### Dependencies
 
 - Python 3.x
+- Requests library (`pip install requests`)
+- BeautifulSoup library (`pip install beautifulsoup4`)
 - Pandas library (`pip install pandas`)
 
 ### Future Enhancements
