@@ -1,7 +1,7 @@
 
 # Bechdel and Mako Mori Test Analysis
 
-### [Medium - Article](https://medium.com/@niraliparikh17/redefining-roles-the-bechdel-test-and-mako-mori-test-in-bollywoods-female-characters-f36220d20b61)
+### Medium - Article(https://medium.com/@niraliparikh17/redefining-roles-the-bechdel-test-and-mako-mori-test-in-bollywoods-female-characters-f36220d20b61)
 
 ## Project Overview
 
